@@ -6,11 +6,10 @@
 
 1. Fork the repository
 2. clone the repo to your device using `git clone https://github.com/ayalasher/jalod-mobile-application.git`
-3. Move into the jalod-mobile-application folder using `cd jalod-mobile-application`
-4. Ensure you have the latest version of the mobile application vesrion of Expo GO
-5. run `npm start` in the terminal.
-6. For android devices scan the QR code in the terminal using the scanner in youtr mobile application
-7. For IOS devices scan the QR code using the camera app.
+3. Ensure you have the latest version of the mobile application vesrion of Expo GO
+4. run `npm start` in the terminal.
+5. For android devices scan the QR code in the terminal using the scanner in youtr mobile application
+5. For IOS devices scan the QR code using the camera app.
 
 ### Ofiicial documentation of the used tools
 
